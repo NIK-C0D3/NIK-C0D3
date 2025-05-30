@@ -15,7 +15,7 @@
 
 - 🧠 About Computers: **Early computers were meant to be used only for calculations. Simple manual instruments like the abacus have aided people in doing calculations since ancient times. Early in the Industrial Revolution, some mechanical devices were built to automate long, tedious tasks, such as guiding patterns for looms.**
 
-https://giphy.com/gifs/glitch-stare-skulls-l3q2JvztR3AjtBxQs
+![download](https://github.com/user-attachments/assets/04f0cae9-cc5a-435c-bec4-1ea35a84aa1f)
 
 <p align="left">
 </p>
